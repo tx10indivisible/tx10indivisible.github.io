@@ -1,0 +1,25 @@
+{% include header.html %}
+<!-- Main -->
+	<section class="wrapper style1 top">
+		<div class="container">
+
+			<!-- Blog -->
+				<section>
+					<a href="/news">&lt;&lt; More News</a>
+					<header class="major">
+						<h2>{{ page.title }}</h2>
+						<p>Posted {{ page.date | date: '%B %d, %Y' }}</p>
+					</header>
+					<div class="row">
+						<div class="8u -2u">
+							<div id="post-article" class="box">
+								<span class="image featured"><img src="{{ page.share-img }}" /></span>
+								{{ page.content }}
+							</div>
+						</div>
+					</div>
+				</section>
+
+		</div>
+	</section>
+{% include footer.html %}

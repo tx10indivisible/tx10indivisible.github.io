@@ -1,0 +1,38 @@
+<link href='https://actionnetwork.org/css/style-embed-whitelabel.css' rel='stylesheet' type='text/css' />
+<script type="text/javascript">
+function emphasizeSignup() {
+  console.log('****','emphasizeSignup');
+  $('#email-signup-wrapper').addClass('signup-emphasize-form');
+} // end function
+
+$(function() {
+  $(document).on('can_embed_loaded',
+    function() {
+      /*** IT'S TIME TO DO OUR CALL TO ACTION PUSH ***/
+      if (location.search && location.search.toLowerCase().indexOf("?signup") === 0) {
+        emphasizeSignup();
+      } // end if
+    } // end function
+  );
+  $(document).on('can_embed_submitted',
+    function() {
+
+    } // end function
+  );
+});
+
+</script>
+<style type="text/css">
+  #can_embed_form_inner h2 { font-weight: 600; font-size: 22px; margin-bottom: 1em; }
+</style>
+<a name="signup"></a>
+<div id="email-signup-wrapper" class="sidebar-box pretty-box">
+  <div id='can-form-area-get-our-alerts' style='width: 100%'></div>
+</div>
+<script src='https://actionnetwork.org/widgets/v2/form/get-our-alerts?format=js&source=widget'></script>
+<div class="actionnetworks-list">
+  <ul>
+    <li>Take action on our current TX-10 Calls To Action.</li>
+    <li>See the <a href="https://www.indivisibleaustin.com">Indivisible Austin</a> list for more current actions.</li>
+  </ul>
+</div>

@@ -1,0 +1,46 @@
+---
+layout: default
+title: Latest News
+subtitle: Recent updates and happenings for TX-10 Indivisible
+#meta-title: TX-10 Indivisible Test
+#meta-description: Resisting the Trump Agenda in Central Texas
+#meta-keywords: Resisting the Trump Agenda in Central Texas
+#share-img: http://www.example/img/example-1200x1200.png
+---
+
+<!-- Main -->
+	<section class="wrapper style1 top">
+		<div class="container">
+			<div id="content">
+				<div class="row">
+					<div class="12u">
+						<article>
+							<header>
+								<h2>{{page.title}}</h2>
+								<p>{{page.subtitle}}</p>
+							</header>
+						</article>
+					</div>
+				</div>
+				{% for post in site.posts offset: 0 limit: 10 %}
+					<div class="row">
+						<div class="12u">
+							<div class="box post">
+								<a href="{{ site.baseurl }}{{ post.url }}" class="image left"><img align="left" src="{{ post.share-img }}" alt="" /></a>
+								<div class="inner">
+									<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+									<span>{{ post.excerpt | strip_html | truncatewords: 60 | strip }} - <em>{{ post.date | date: '%b %d, %Y' }}</em></span>
+									<br/><br/>
+									<footer>
+										<a href="{{ site.baseurl }}{{ post.url }}" class="button">Continue Reading</a>
+									</footer>
+								</div>
+							</div>
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+		</div>
+	</section>
+
+	{% include cta.html %}

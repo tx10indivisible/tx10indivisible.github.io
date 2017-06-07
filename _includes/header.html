@@ -1,0 +1,203 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+		<title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }} {{ site.title-separator }} {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="author" content="{{ site.author.name }}" />
+		{% if page.meta-description %}
+			<meta property="description" content="{{ page.meta-description }}">
+		{% elsif page.subtitle %}
+			<meta property="description" content="{{ page.subtitle }}">
+		{% else %}
+			<meta name="description" content="{{ site.description }}" />
+		{% endif %}
+
+		{% if page.meta-keywords %}
+			<meta property="keywords" content="{{ page.meta-keywords }}">
+		{% elsif page.keywords %}
+			<meta property="keywords" content="{{ page.keywords }}">
+		{% else %}
+			<meta name="keywords" content="{{ site.keywords }}" />
+		{% endif %}
+
+		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
+		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
+
+		{% include gtm_head.html %}
+
+
+		<!-- Facebook OpenGraph tags -->
+  {% if site.fb_app_id %}
+  	<meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+  {% endif %}
+
+  {% if page.meta-title %}
+  	<meta property="og:title" content="{{ page.meta-title }}" />
+  {% elsif page.title %}
+  	<meta property="og:title" content="{{ page.title }} {{ site.title-separator }} {{ site.title }}" />
+  {% else %}
+  	<meta property="og:title" content="{{ site.title }}" />
+  {% endif %}
+
+  {% if page.meta-description %}
+  	<meta property="og:description" content="{{ page.meta-description }}">
+  {% elsif page.subtitle %}
+  	<meta property="og:description" content="{{ page.subtitle }}">
+  {% endif %}
+
+  <meta property="og:type" content="website" />
+
+  {% if page.id %}
+  	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  	<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  {% else %}
+  	<meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
+  	<link rel="canonical" href="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
+  {% endif %}
+
+  {% if page.share-img %}
+  	<meta property="og:image" content="{{ page.share-img }}" />
+  {% elsif site.avatar %}
+  	<meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
+  {% endif %}
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@{{ site.author.twitter }}" />
+  <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
+
+  {% if page.meta-title %}
+  	<meta name="twitter:title" content="{{ page.meta-title }}" />
+  {% elsif page.title %}
+  	<meta name="twitter:title" content="{{ page.title }} {{ site.title-separator }} {{ site.title }}" />
+  {% else %}
+  	<meta name="twitter:title" content="{{ site.title }}" />
+  {% endif %}
+
+  {% if page.meta-description %}
+  	<meta name="twitter:description" content="{{ page.meta-description }}">
+  {% elsif page.subtitle %}
+  	<meta name="twitter:description" content="{{ page.subtitle }}">
+  {% endif %}
+
+  {% if page.share-img %}
+  	<meta name="twitter:image" content="{{ page.share-img }}" />
+  {% elsif site.avatar %}
+  	<meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
+  {% endif %}
+	</head>
+	<body>
+		{% include gtm_body.html %}
+
+		<!-- NEEDED FOR FACEBOOK PLUGINS -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=104228583019822";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<!-- Header -->
+			<div id="header">
+
+				<!-- Logo -->
+					<!--<h1><a href="{{ site.baseurl }}/index.html" id="logo">Arcana <em>by HTML5 UP</em></a></h1>-->
+
+				<!-- Nav -->
+					<nav id="nav">
+						{% if page.url != '/' %}
+						   <a href="/"><img id="nav-logo" src="{{ site.baseurl }}/assets/images/nav-logo.png" /></a>
+						{% endif %}
+						<ul>
+							<li {% if page.url == '/' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
+							<li {% if page.url == '/about/' %}class="current"{% endif %}><a href="{{ site.baseurl }}/about">About</a></li>
+							<li {% if page.url == '/news/' %}class="current"{% endif %}><a href="{{ site.baseurl }}/news">News</a></li>
+							<li {% if page.url == '/get-involved/' %}class="current"{% endif %}>
+									<a href="{{ site.baseurl }}/get-involved">Get Involved</a>
+									<ul>
+										<li>
+											<a href="#">TX-10 Indivisible</a>
+											<ul class="fa-markers">
+												<li align="left"><a href="{{ site.author.facebook }}"><i class="fa fa-facebook"></i> TX-10 Call-to-Actions</a></li>
+												<li align="left"><a href="{{ site.author.facebook }}/events"><i class="fa fa-facebook"></i> TX-10 Events</a></li>
+												<li align="left"><a href="{{ site.author.facebook-group }}"><i class="fa fa-facebook"></i> TX-10 Group</a></li>
+												<li align="left"><a href="https://www.twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter"></i> @tx10indivisble</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="#">Rep Michael McCaul</a>
+											<ul class="fa-markers">
+												<li align="left"><a target="_blank"  href="tel:512-473-2357"><i class="fa fa-phone"></i> (512) 473-2357 (Austin)</a></li>
+												<li align="left"><a target="_blank"  href="tel:202-225-2401"><i class="fa fa-phone"></i> (202) 225-2401 (DC)</a></li>
+												<li align="left"><a target="_blank"  href="tel:281-398-1247"><i class="fa fa-phone"></i> (281) 398-1247 (Katy)</a></li>
+												<li align="left"><a target="_blank"  href="tel:281-255-8372"><i class="fa fa-phone"></i> (281) 255-8372 (Tomball)</a></li>
+												<li align="left"><a target="_blank"  href="tel:979-830-8497"><i class="fa fa-phone"></i> (979) 830-8497 (Brenham)</a></li>
+												<li align="left"><a target="_blank"  href="http://mccaul.house.gov/"><i class="fa fa-globe"></i> mccaul.house.gov</a></li>
+												<li align="left"><a target="_blank"  href="https://twitter.com/RepMcCaul"><i class="fa fa-twitter"></i> @RepMcCaul</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="#">Senator Ted Cruz</a>
+											<ul class="fa-markers">
+												<li align="left"><a target="_blank"  href="tel:512-916-5834"><i class="fa fa-phone"></i> (512) 916-5834 (Austin)</a></li>
+												<li align="left"><a target="_blank"  href="tel:202-224-5922"><i class="fa fa-phone"></i> (202) 224-5922 (DC)</a></li>
+												<li align="left"><a target="_blank"  href="tel:903-593-5130"><i class="fa fa-phone"></i> (903) 593-5130 (Tyler)</a>
+												<li align="left"><a target="_blank"  href="https://www.cruz.senate.gov/"><i class="fa fa-globe"></i> www.cruz.senate.gov</a></li>
+												<li align="left"><a target="_blank"  href="https://twitter.com/tedcruz"><i class="fa fa-twitter"></i> @TedCruz</a></li>
+												<li align="left"><a target="_blank"  href="https://twitter.com/SenTedCruz"><i class="fa fa-twitter"></i> @SenTedCruz</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="#">Senator John Cornyn</a>
+											<ul class="fa-markers">
+												<li align="left"><a target="_blank"  href="tel:512-469-6034"><i class="fa fa-phone"></i> (512) 469-6034 (Austin)</a></li>
+												<li align="left"><a target="_blank"  href="tel:202-224-2934"><i class="fa fa-phone"></i> (202) 224-2934 (DC)</a>
+												<li align="left"><a target="_blank"  href="tel:903-593-0902"><i class="fa fa-phone"></i> (903) 593-0902 (Tyler)</a>
+												<li align="left"><a target="_blank"  href="https://www.cornyn.senate.gov/"><i class="fa fa-globe"></i> www.cornyn.senate.gov</a></li>
+												<li align="left"><a target="_blank"  href="https://twitter.com/JohnCornyn"><i class="fa fa-twitter"></i> @JohnCornyn</a></li>
+											</ul>
+										</li>
+									</ul>
+							</li>
+							<!-- ################################################
+								TODO: IMPLEMENT
+								<li {% if page.url == '/resources/' %}class="current"{% endif %}>
+										<a href="{{ site.baseurl }}/resources">Resources</a>
+										<ul>
+											<li><a href="#">Activity Resource Guide</a></li>
+										</ul>
+								</li>
+							################################################ -->
+							<li>
+								<a href="">Indivisible Sites</a>
+								<ul>
+									<li><a href="https://www.indivisibleguide.com/">Indivisible Guide</a></li>
+									<li><a href="http://www.indivisibleaustin.com/">Indivisible Austin</a></li>
+									<!-- <li><a href="http://tx10indivisible.us/">TX-10 Indivisible</a></li> -->
+									<li><a href="http://indivisibletx17.com/">TX-17 Indivisible</a></li>
+									<li><a href="https://tx21indivisible.us/">TX-21 Indivisible</a></li>
+									<li><a href="http://tx25.indivisible.blue/">TX-25 Indivisible</a></li>
+									<li><a href="http://indivisiblesanantonio.org/">TX-35 Indivisible</a></li>
+									<li><a href="https://www.indivisibleaustin.com/resources/other-texas-orgs/">More Texas Cause Groups</a></li>
+								</ul>
+							</li>
+						</ul>
+					</nav>
+
+			</div>

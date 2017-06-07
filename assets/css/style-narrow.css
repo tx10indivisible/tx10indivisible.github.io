@@ -1,0 +1,17 @@
+/*
+	Arcana by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 12pt;
+		line-height: 1.5em;
+	}
+
+/**** TX-10 OVERRIDES ****/
+#nav-logo { float: left; height: 36px; padding-top: 2px; }
+#header { padding: 0 0 0 0; z-index: 100; position: absolute; width: 100%; }
+section.top { padding-top: 1.5em;  }
