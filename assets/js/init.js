@@ -1,4 +1,5 @@
 ---
+layout: null
 ---
 /*
 	Arcana by HTML5 UP
