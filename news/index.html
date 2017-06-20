@@ -39,6 +39,19 @@ subtitle: Recent updates and happenings for TX-10 Indivisible
 						</div>
 					</div>
 				{% endfor %}
+				<h2>Older News</h2>
+				{% for post in site.posts offset: 10 %}
+					<div class="row">
+						<div class="12u">
+							<div class="box post">
+								<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - <em>{{ post.date | date: '%b %d, %Y' }}</em></h3>
+								<span>{{ post.excerpt | strip_html | truncatewords: 60 | strip }}</span>
+								<br/>
+								<a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
+							</div>
+						</div>
+					</div>
+				{% endfor %}
 			</div>
 		</div>
 	</section>
