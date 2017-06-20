@@ -11,7 +11,7 @@ Today we released a new look to the TX-10 Indivisible Website.  Here is a bit mo
 
 * **Improved Mobile Experience** - Adopted a new template which makes the mobile UI much more user friendly.  Now ALL MoC contact details are available in the **Get Involved** navigation bar, *on every page*.
 
-* **Improved Getting Involved Sections** - Consolidated and clarified ways for people to get involved at multiple levels.
+* **Improved Getting Involved Sections** - Consolidated and clarified ways for people to [Get Involved](/get-involved) at multiple levels.
 
 * **Updated Overall Site Brand** - Site branding now matches more closely with TX-10 Indivisible.
 
