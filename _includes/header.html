@@ -70,11 +70,15 @@
   {% endif %}
 
   {% if page.share-img %}
-  	<meta property="og:image" content="{{ page.share-img }}" />
+		{% assign first_char = page.share-img | slice: 0 %}
+		{% if first_char == '/' %}
+			<meta property="og:image" content="{{ site.url }}{{ page.share-img }}" />
+		{% else %}
+			<meta property="og:image" content="{{ page.share-img }}" />
+		{% endif %}
   {% elsif site.avatar %}
   	<meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
-
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
