@@ -4,7 +4,8 @@
     {% assign posts = (site.posts | where_exp: 'item', 'item.tags contains "front"') %}
     {% for post in posts offset: 0 limit: 3 %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - <em>{{ post.date | date: '%b %d, %Y' }}</em>
+      <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <span class="post-subtitle">{{ post.subtitle}} - <em>{{ post.date | date: '%b %d, %Y' }}</em></span
       <span>{{post.excerpt | truncatewords: 18 }} </span>
     </li>
     {% endfor %}

@@ -5,9 +5,6 @@ subtitle: JAM THE PHONES ON TRUMPCARE
 tags: [front,action-alert]
 share-img: https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2017/06/10/Editorial-Opinion/Images/314215669_0-2214.jpg
 ---
-
-CALL TO ACTION - Thursday, June 15
-
 If TrumpCare gets through the Senate, it will probably become law. If the Senate manages to jam it through, there’ll be nothing left to stop it from getting to Trump’s desk.
 
 Call your Senator’s DC office and ask to speak to the health staffer by name. For Sen. Cornyn, that’s Beth Nelson; For Sen Cruz, it’s Joel Heimbach.

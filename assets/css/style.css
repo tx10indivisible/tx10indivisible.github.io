@@ -916,3 +916,5 @@ a { border-bottom: none; }
 }
 
 span.emphasis { font-weight: bold; font-style: italic; }
+.post-title { text-transform: uppercase; }
+span.post-subtitle { display : block; font-size: .7em; text-transform: uppercase; }
