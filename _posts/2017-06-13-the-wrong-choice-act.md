@@ -3,7 +3,7 @@ layout: post
 title: THE (WRONG) CHOICE ACT BENEFITS BILLIONAIRE BANKERS AND LEAVES AMERICAN FAMILIES HOLDING THE BAG
 subtitle: CALL YOUR SENATORS AND ASK THEM TO VOTE AGAINST THE "FINANCIAL CHOICE" ACT OF 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: https://blogs-images.forbes.com/antoinegara/files/2017/06/693425584.jpg?width=960
 ---
 Call to Action Tuesday June 13th, 2017
 

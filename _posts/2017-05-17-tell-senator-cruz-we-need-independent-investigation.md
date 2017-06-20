@@ -3,7 +3,7 @@ layout: post
 title: TELL SENATOR CRUZ WE NEED AN INDEPENDENT INVESTIGATION NOW!
 subtitle: WE CAN NO LONGER AFFORD TO WAIT AND SEE WHAT HAPPENS
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 In an interview Tuesday, Sen. Ted Cruz says he wants to “wait and withhold judgement” about Trump revealing highly sensitive classified intelligence to Russian officials. Trump’s actions are inexcusable, and the nation can no longer afford to give him more chances.

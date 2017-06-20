@@ -5,7 +5,7 @@ title:  CONTINUE TO RESIST THE REPEAL OF THE ACA
 subtitle: CALL TO ACTION -- ALSO VOTE IN THE UPCOMING ELECTION
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 There's a LOT going on this week and we need your help!
 

@@ -5,7 +5,7 @@ title:  DEMAND INDEPENDENT RUSSIA INVESTIGATION!
 subtitle: CALL TO ACTION – Tell Your Senators Your Want a Bi-Partisan / Independent Russia Investigation
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Call and tell our senators that we want an independent, non-partisan commission to investigate Russian interference in the November election.
 

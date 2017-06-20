@@ -5,7 +5,7 @@ title:  NO FUNDING FOR TRUMP’S BORDER WALL!
 subtitle: CALL TO ACTION – Tell McCaul to Drop Support for the Ineffective Border Wall
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 A cornerstone of President Trump’s campaign was the promise that he would build a wall on the U.S.-Mexico border, claiming that the Mexican people who were emigrating here were “rapists” and “bad hombres.” Not only are President Trump’s characterizations of the Mexican community racist and incorrect, this wall he’s proposing comes with a massive estimated $25 billion-dollar price tag. Even though Trump has said many times that Mexico will pay for the wall, he still has not told the American people how or when that could possibly happen.

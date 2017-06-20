@@ -5,7 +5,7 @@ title:  STOP TAX BREAKS FOR CORPORATIONS THAT WEAKEN AMERICA!
 subtitle: CALL TO ACTION – Ask McCaul His Position on Trump's Tax Plan
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 President Trump has proposed slashing America's corporate and business tax rates to 15%. This will lower government revenues and increase the deficit along with the national debt. Additionally Trump's plan to increase military spending and build a wall will add billions to the budget. **Ask Congressman McCaul where he stands on Trump's plan to balloon the national debt.**
 

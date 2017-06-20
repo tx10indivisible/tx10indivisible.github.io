@@ -3,7 +3,7 @@ layout: post
 title: DEMAND AN INDEPENDENT INVESTIGATION INTO RUSSIAN ELECTION INTERFERENCE!
 subtitle: URGENT CALL TO ACTION TO DEFEND OUR DEMOCRACY
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Yesterday, Trump took the extraordinary and unprecedented step of firing an FBI Director who was currently leading an investigation into his administration. This is a frightening, authoritarian abuse of power, but also an act of desperation. Make no mistake, **THIS IS A MISSTEP BY THE TRUMP ADMINISTRATION.** They just put Russia back in the headlines for weeks and almost instantly prompted lawmakers on both sides of the aisle to call for an independent investigation into Russia's meddling in our election. They have inadvertently provided us with our best opportunity yet to push the needle--**AND WE NEED TO ACT ON IT.**

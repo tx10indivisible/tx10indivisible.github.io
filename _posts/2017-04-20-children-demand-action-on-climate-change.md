@@ -5,7 +5,7 @@ title:  Children Demand Action on Climate Change!
 subtitle: CALL TO ACTION – Demand McCaul Stand Up for Addressing Climate Change!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Scientists agree that the Earth is getting warmer, and pollution is causing serious health risks to all of us. Our own Representative McCaul, however, has cosponsored H.R. 637, a resolution that allows polluters to poison our air and water. H.R. 637 places profits over clean air and our future.

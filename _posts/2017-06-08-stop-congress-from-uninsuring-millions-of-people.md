@@ -3,7 +3,7 @@ layout: post
 title: STOP CONGRESS FROM UNINSURING MILLIONS OF PEOPLE
 subtitle: CALL OUR SENATORS TO REJECT THE AMERICAN HEALTH CARE ACT!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: http://thehill.com/sites/default/files/cornynjohn_011017gn_lead.jpg
 ---
 The nonpartisan Congressional Budget Office (CBO) analysis of the revised American Health Care Act (AHCA) is in, and its findings are clear: the bill will strip 14 million Americans of health insurance by next year and 23 million by 2026 while making coverage unaffordable for millions more. In fact, the AHCA would leave more Americans uninsured by 2026 than were uninsured prior to the ACA's passage in 2010.
 

@@ -5,7 +5,7 @@ title:  Texas Voting Laws Disenfranchise Minorities, It Must Stop!
 subtitle: CALL TO ACTION – Demand McCaul Stand Up for the Voting Rights Act!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Texas Republicans have been handed yet another federal court ruling that says their voting laws have violated the Constitution by intentionally disenfranchising minorities. Many of these minorities are constituents of Rep. McCaul and we deserve to know his stance on these rulings. It would be great if he had the courage to defend his constituents and the Constitution by speaking publicly in favor of changes to Texas' voter laws to make them fair and nondiscriminatory, but at the very least, we need to let him know we'll be watching him closely on this issue!

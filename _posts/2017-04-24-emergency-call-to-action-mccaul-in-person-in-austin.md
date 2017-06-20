@@ -5,7 +5,7 @@ title:  EMERGENCY CALL TO ACTION - CONGRESSMAN MCCAUL WILL BE IN PERSON IN AUSTI
 subtitle: CALL TO ACTION – Demand McCaul Stand Up for the Voting Rights Act!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 For the first time, TX-10 Indivisible has advance warning of an event that **Rep. McCaul will be appearing at in-person IN AUSTIN!** We have to act on it!

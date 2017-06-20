@@ -3,7 +3,7 @@ layout: post
 title: TEXAS LEADS THE NATION IN TEEN PREGNANCY AND MATERNAL DEATH
 subtitle: CALL YOUR GOVERNOR AND STATE REPRESENTATIVES TO DEMAND THEY STAND UP FOR TEXAS WOMEN!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: http://s1.r29static.com//bin/entry/111/0,977,2000,1050/x,80/1802668/image.jpg
 ---
 After decades of GOP leadership, Texas has become the leader in teen pregnancies. GREAT NEWS! Dallas and San Antonio have rates 40 to 50% above the national average. In contrast, California put resources into education and access to contraceptives and their rates dropped by 74%. Texas implemented abstinence only programs. In addition, maternal deaths in Texas skyrocketed, a rate unrivaled not only in the United States, but in most of the developed world.
 

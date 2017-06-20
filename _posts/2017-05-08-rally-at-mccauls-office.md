@@ -3,7 +3,7 @@ layout: post
 title: RALLY AT MCCAUL'S OFFICE!
 subtitle: PROTEST THE AHCA AND MCCAUL WHO SUPPORTS IT!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Join us at McCaul's office to protest his vote for the AHCA. Bring your letters, your signs, and your constituent anger! We're going to tell him loud and clear how we feel about him voting himself a massive tax cut by stripping away healthcare from millions of Americans.

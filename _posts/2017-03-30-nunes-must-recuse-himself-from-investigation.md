@@ -5,7 +5,7 @@ title: Representative Nunes Must Recuse Himself from Trump / Russia Investigatio
 subtitle: CALL TO ACTION – Ask Congressman McCaul to Support Nunes' Removal from Investigation
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 As Chairman of the House Intelligence Committee, Rep. Devin Nunes has completely discredited the committee's ability to fairly investigate the Trump Administrations ties to Russia, many are saying intentionally so. Besides being a member of the Trump transition team, he has shown multiple times that his loyalties lie with the very people he is supposed to be investigating, so much so that Democrats and Republicans alike are calling for him to recuse himself. Yet he obstinately maintains his position, likely to able to control any damaging information on behalf of the Trump Administration. The very integrity of our system is at stake! Ask Rep. McCaul to join fellow Republicans in demanding that Nunes recuse himself from the Russia investigation!
 

@@ -3,7 +3,7 @@ layout: post
 title: STOP TRUMPCARE AT CORNYN'S OFFICE - JUNE 15th AT 2PM
 subtitle: IN-PERSON - CALL TO ACTION
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: https://www.brookings.edu/wp-content/uploads/2017/02/brookingscafeteria_rivlin002.jpg
 ---
 
 IN-PERSON - CALL TO ACTION - SEN. CORNYN’S CENTRAL TEXAS OFFICE - THURSDAY JUNE 15TH 2017 @ 2PM

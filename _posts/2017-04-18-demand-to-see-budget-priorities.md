@@ -5,7 +5,7 @@ title:  Let's Visit McCaul To Talk About Trump Tax Returns!
 subtitle: CALL TO ACTION – Demand McCaul Answer Questions About Trump's Tax Returns!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Mr. McCaul voted against forcing the release of Donald Trump's tax returns. On this day when all of us must pay up, let's talk about that and the budget priorities of the congressman. Cutting Planned Parenthood to fuel more Tomahawk missiles? Paying ICE to deport those who harvest our crops? Building an unnecessary wall? All are budget issues. Pick your favorite and join us at McCaul's Austin office to see if he or anyone from his staff will be available to discuss these issues with us. Bring letters, bring kids. Peaceful, civil discussion of the issues.

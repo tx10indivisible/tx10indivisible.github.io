@@ -5,7 +5,7 @@ title:  Mock Town Hall at McCaul’s Office
 subtitle: TUES APRIL 11th at NOON
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 We're holding an IN PERSON- MOCK TOWN HALL at Rep McCaul’s Austin Office - TUESDAY APRIL 11th, 2017 @ NOON - 1:30PM
 

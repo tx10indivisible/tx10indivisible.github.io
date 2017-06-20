@@ -3,7 +3,7 @@ layout: post
 title: WRITE LETTERS TO THE EDITOR IN LOCAL NEWS OUTLETS OPPOSING THE REPEAL OF THE ACA
 subtitle: LET'S FLOOD THEIR INBOXES
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: https://2obtaz1watdk1gq96f1dhka8-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/web1_Letters_TSR.jpg
 ---
 Call to Action Wednesday June 14th, 2017
 

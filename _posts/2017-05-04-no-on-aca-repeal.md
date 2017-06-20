@@ -3,7 +3,7 @@ layout: post
 title: GIVE McCAUL A REASON TO VOTE NO ON ACA REPEAL!
 subtitle: EMERGENCY CALL TO ACTION
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 News organizations are reporting that Republicans have enough votes to

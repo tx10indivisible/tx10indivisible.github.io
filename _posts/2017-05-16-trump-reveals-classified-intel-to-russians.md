@@ -3,7 +3,7 @@ layout: post
 title: TRUMP REVEALED HIGHLY CLASSIFIED INFORMATION TO THE RUSSIANS!
 subtitle: STOP TRUMP FROM !
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 In an oval office meeting, president Trump revealed highly classified information to the Russian foreign minister. This disclosure has jeopardized our relationship with a valuable source of intelligence on ISIS. As head of the house homeland security committee, Michael McCaul shoul make a public statement on the disclosure and reassure the American people that we are protecting our intelligence sources and assets.

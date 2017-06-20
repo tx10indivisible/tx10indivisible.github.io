@@ -5,7 +5,7 @@ title: CALL TO ACTION - Let's Go See McCaul
 subtitle: A Week of Office Visits on February 20th - 24th, 2017
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Despite our **_MANY_** phone calls asking for a town hall, Rep. McCaul has not scheduled any during his week in district, which starts on Monday. Furthermore, his office has flatly told us he is not willing to meet with constituents while he's in Austin. _They won't even tell us which days he'll be in town!_

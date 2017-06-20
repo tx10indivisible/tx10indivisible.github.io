@@ -5,7 +5,7 @@ title: America Needs An Independent Russia Investigation Now!
 subtitle: CALL TO ACTION – Ask Congressman McCaul to Publicly Support Independent Russia Investigation
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Representative DEVIN NUNES has shown on several occasions that he CANNOT BE IMPARTIAL as chairman of the House Intelligence Committee investigating the administration's ties to Russia during and after the 2016 election. He has repeatedly stated that there is no evidence of collusion between Trump and Russia before the investigation is completed, and despite circumstantial evidence to the contrary. He was a member of Donald Trump’s transition team, which is under investigation by the committee he chairs. On March 22, Nunes held two press conferences, briefed the Republican Speaker of the House and the Republican President, all before he briefed the ranking member on the House Intelligence Committee and the rest of the Committee members. The evidence he publicly discussed during those briefings has still not been shown to the other members of the House Intelligence Committee.
 

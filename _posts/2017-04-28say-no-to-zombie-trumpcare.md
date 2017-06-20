@@ -5,7 +5,7 @@ title:  SAY NO TO ZOMBIE TRUMPCARE!
 subtitle: CALL TO ACTION – MAKE SURE MCCAUL KNOWS TRUMPCARE IS NOT ACCEPTABLE!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 (It looks like Republicans do not have enough votes to pass this horrid bill before the weekend, but they are leaving open the possibility of voting on it next week, so let's make sure McCaul spends his weekend thinking about how angry his constituents will be if he votes yes!)
 

@@ -3,7 +3,7 @@ layout: post
 title: DEMAND MCCAUL'S PLAN TO DEAL WITH CLIMATE CHANGE IN TEXAS!
 subtitle: JOIN THE IN-PERSON ACTION AT MCCAUL'S AUSTIN OFFICE
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: https://cdn.tribtalk.org/media/photos/2017/06/Wind-1.jpg
 ---
 Today, members of the Citizens Climate Lobby around the country will be calling their members of Congress to demand action on rising carbon emissions. To support this effort, we're planning a trip to McCaul's office to remind him all the ways that Trump's abandonment of the Paris Climate Accord hurts Texans now and for generations to come. Join us at McCaul's Austin office, or call the office to strengthen our voice!
 

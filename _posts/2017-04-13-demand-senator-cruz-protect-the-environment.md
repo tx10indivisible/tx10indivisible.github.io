@@ -5,7 +5,7 @@ title:  Demand Senator Ted Cruz Protect the Environment and Our Natural Resource
 subtitle: CALL TO ACTION – Tell Senator Crus to Oppose Trump Budget Cuts to Environmental Services!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Trump's budget proposal includes a 30% CUT to the EPA - eliminating funding for the Clean Power Plan, regulations on greenhouse gas emissions and research for climate change. The proposal also includes a 12% CUT to the Dept of Interior which protects our national parks, fish and wildlife and natural resources. Senator Cruz has been quoted as commending Trump for his efforts to roll back Obama-era environmental regulations. We can't let this happen.
 

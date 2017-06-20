@@ -5,7 +5,7 @@ title: AHCA Vote is Today - Make Your Voices Heard!
 subtitle: CALL TO ACTION – Tell Representative McCaul to Vote NO on AHCA!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Today is a BIG DAY! If the AHCA fails to pass the House, it's a HUGE loss for Trump and a win for constituent power. Call and tell Representative McCaul to vote against Trumpcare!
 

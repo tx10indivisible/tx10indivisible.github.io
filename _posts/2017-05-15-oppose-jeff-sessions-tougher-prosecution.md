@@ -3,7 +3,7 @@ layout: post
 title: CALL AND OPPOSE JEFF SESSIONS' FOCUS ON TOUGHER PROSECUTION AND SENTENCING!
 subtitle: STOP THE COSTLY MASS INCARCERATION U.S. CITIZENS!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Despite all the partisanship and division in America lately, there was one issue that liberals and conservatives were starting to agree on: **that America was incarcerating too many of its citizens for too long.** Besides being an abuse of human rights, it costs taxpayers dearly, and it almost seemed as if the Senate was going to take bipartisan action on this issue--even our own Sen. John Cornyn was coming around--and then Jeff Sessions became Attorney General, and now he has instructed prosecutors across the country to seek the stiffest penalties possible for criminal defendants. This is a huge step backwards which Republicans in Congress that had previously supported criminal justice reform are spinelessly silent about. **Let them know that Sessions is way out of touch with the public on this issue and that we need Congress to take legislative action!**

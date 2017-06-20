@@ -5,7 +5,7 @@ title:  Sanctuary Cities Should Not Be Punished by Washington!
 subtitle: CALL TO ACTION – Demand McCaul Stand Up For Sanctuary Cities!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 McCaul is still in recess, so we're visiting his office again to share our concerns about his reactionary stance on immigration and support for punishing cities that have the audacity to decide their own law enforcement policies. Join us if you can at 3:30PM, or if you can't, call the office with your questions or concerns on this issue. It's the height of hypocrisy for a Texan who lives in Austin to want to punish his own community for not following the marching orders of his party leaders in Washington!

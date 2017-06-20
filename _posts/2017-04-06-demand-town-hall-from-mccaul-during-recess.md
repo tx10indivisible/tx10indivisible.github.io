@@ -5,7 +5,7 @@ title: Demand a Constituent Town Hall During Congressional Recess!
 subtitle: CALL TO ACTION – Tell McCaul to We Want a Town Hall!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 **CONGRESS 2-WEEK RECESS STARTS NEXT WEEK... WHEN'S THE TOWN HALL, REP. MCCAUL?**
 Starting Friday, Congress will leave Washington for their first recess since February, and Rep. McCaul has still made no plans to meet with his constituents in a public setting. Call and let him know his so-called "tele-town hall" was not remotely adequate. **WE WANT A TOWN HALL!**

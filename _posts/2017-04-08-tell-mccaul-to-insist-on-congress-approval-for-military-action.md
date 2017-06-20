@@ -5,7 +5,7 @@ title:  Military Actions on Foreign Soil Must Be Approved By Congress!
 subtitle: CALL TO ACTION – Tell McCaul to Insist on Congressional Approval for Military Action!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Michael McCaul is beating the drums for war. Last week, he expressed repeatedly his belief that the U.S. should lead the effort to forcibly remove Assad from power and rebuild Syria. Incredibly, he offers no actual plan for achieving this other than to "hopefully work with the Russians" because they probably don't want a conflict with the U.S. We have a president whose ties to Russian intelligence are currently under investigation by the FBI. We have a electorate deeply skeptical of military intervention in the Middle East after the wars in Iraq and Afghanistan. Yet we have a congressman who seems to think his job is to be a cheerleader for unilateral executive power rather than a check on it. Call and remind Rep. McCaul that his duty is to demand congressional approval for any military action by the president!
 

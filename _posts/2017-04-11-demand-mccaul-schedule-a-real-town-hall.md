@@ -5,7 +5,7 @@ title:  Congress is Out of Session ... Time for a McCaul Town Hall!
 subtitle: CALL TO ACTION – Tell McCaul You Want a Real Town Hall!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 TX-10 Indivisible is going to Congressman McCaul's office TUESDAY, APRIL 11th @ NOON to hold our own town hall. Let’s make sure his recess starts with a big “WE’RE STILL HERE!” If you cannot attend, support our in-person town hall action by echoing and amplifying the message with your phone calls.
 

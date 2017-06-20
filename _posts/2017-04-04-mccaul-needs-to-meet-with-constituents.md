@@ -5,7 +5,7 @@ title: Remind McCaul to Meet In-Person With Constituents When He Comes Back to T
 subtitle: CALL TO ACTION – Oppose Neil Gorsuch's Confirmation and Nuclear Senate Option to Beat Filibuster!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Congressional Recess is fast approaching. With Congressman McCaul returning to Texas, we should be encouraging him to meet with his constituents.
 

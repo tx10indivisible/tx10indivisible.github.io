@@ -3,7 +3,7 @@ layout: post
 title: TRUMP BUDGET TAKES TWO MILLION DOLLARS FROM BASTROP COUNTY!
 subtitle: CALL MCCAUL AND DEMAND HE SUPPORT BASTROP, ELGIN AND SMITHVILLE INFRASTRUCTURE BUDGETS!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: http://www.statesman.com/rf/image_large/Pub/p8/Statesman/2017/05/30/Images/newsEngin.18858802_Trump-budget.jpg
 ---
 Federal budget cuts could slash $2 million from infrastructure projects in Bastrop, Elgin and Smithville. This much needed funding is in jeopardy due to Trump's axing of the 43 year old Community Development Block Grant Program. Ask Rep. McCaul to take a stand and defend this program that is so important in his district.
 

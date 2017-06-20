@@ -3,7 +3,7 @@ layout: post
 title: DEMAND AN INDEPENDENT COMMISSION AND IMPEACHMENT PROCEEDINGS
 subtitle: CALL OUR MoC TO DEMAND THEY STAND UP AND PROTECT OUR DEMOCRACY!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: https://img.washingtonpost.com/rf/image_606w/2010-2019/WashingtonPost/2017/05/12/National-Politics/Images/Botsford170512Trump15352.JPG
 ---
 James Comey’s testimony confirms that Donald Trump tried to obstruct justice. The President of the United States knew that the FBI was investigating his associates, TRIED TO STOP THAT INVESTIGATION, and then fired the person who wouldn’t stop it. This is obstruction of justice, a federal crime, and an impeachable offense.
 

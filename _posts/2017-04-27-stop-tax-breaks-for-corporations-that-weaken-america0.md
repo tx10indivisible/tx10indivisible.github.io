@@ -5,7 +5,7 @@ title:  EMERGENCY CALL TO ACTION - IT'S TIME TO FIGHT TRUMPCARE 2.0
 subtitle: CALL TO ACTION – CALL MCCAUL AND TELL HIM TO VOTE AGAINST TRUMPCARE 2.0!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 The White House and far-right Republicans are hammering out a new health care repeal bill that may be voted on as early as TOMORROW. This one is even more cruel and draconian than the AHCA, designed to appease the ultra-conservative Freedom Caucus by eliminating protections for people with pre-existing conditions, Medicaid funding, and other essential health benefits. That means we need to put pressure on moderate Republicans to VOTE NO!
 

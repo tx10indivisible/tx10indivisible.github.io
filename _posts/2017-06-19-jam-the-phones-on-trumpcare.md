@@ -3,7 +3,7 @@ layout: post
 title: CALL YOUR SENATORS TO OPPOSE THE AHCA
 subtitle: JAM THE PHONES ON TRUMPCARE
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2017/06/10/Editorial-Opinion/Images/314215669_0-2214.jpg
 ---
 
 CALL TO ACTION - Thursday, June 15

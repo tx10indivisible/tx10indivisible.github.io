@@ -5,7 +5,7 @@ title:  Stop Dangerous Sanctuary Cities Act (HR 400)!
 subtitle: CALL TO ACTION – Tell McCaul to Listen to His Constituents and Drop His Support for HR 400!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 On Friday March 30th, Congressman McCaul signed on as a co-sponsor of H.R. 400 the “Stop Dangerous Sanctuary Cities Act.” If enacted, this law would remove significant federal funding from the City of Austin and Travis County.
 

@@ -5,7 +5,7 @@ title: Allow Sally Yates to Testify in Open Intelligence Hearing
 subtitle: CALL TO ACTION – Ask McCaul, Cornyn and Cruz to allow to Sally Yates testify!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Call and demand that Congressman McCaul and Senators Cornyn and Cruz compel the testimony of Sally Yates in an open hearing before a congressional Intelligence Committee.
 

@@ -3,7 +3,7 @@ layout: post
 title: DEMAND MCCAUL EXPLAIN HIS SUPPORT FOR AHCA!
 subtitle: PROTEST THE AHCA AND SAVE TEXAS MOTHERS!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Maternal mortality rates in the U.S. are appalling: since 2000, they have increased by more than 25%, putting us on par with countries like Qatar and Bahrain. The situation in Texas is especially desperate. Our maternity mortality rate *doubled* between 2011 and 2014. This is an emergency, and no one seems to be talking about it. Instead, Republicans at the capitol continue in their quest to decimate women’s healthcare. And as we all know, Michael McCaul voted for the AHCA, which would allow health insurance companies to opt out of covering basic services for women such as maternity care, well woman checks, and birth control. We need to **demand that McCaul explain why he voted for the AHCA, and ask him what he intends to do about Texas mothers dying at astonishing rates.**

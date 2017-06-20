@@ -5,7 +5,7 @@ title: Don't Let Trump's Wall Ruin Big Bend!
 subtitle: CALL TO ACTION – Tell Representative McCaul to Oppose Big Bend Wall!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Big Bend National Park is a shining jewel in the Texas parks system. If Trump succeeds in building a wall through it, its natural beauty will be desecrated. Wildlife obviously pay no attention to national borders and frequently cross back and forth. The re-introduction of the black bear to west Texas via Mexico is one of the great conservation stories of the Southwest, and it will end if a wall is built through the park. Very few people cross the border through the park due to the Chinati Mountains, so a wall does not improve national security in any way. But as a federal park, it does not need to be condemned lot by lot like other border regions, so it is a tempting target for Republicans who want to say they built something.
 

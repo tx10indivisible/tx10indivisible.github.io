@@ -5,7 +5,7 @@ title: Say NO to Tax Cuts for the Rich at the Expense of the Middle Class!
 subtitle: CALL TO ACTION – Tell McCaul to Oppose Tax Cuts for the Rich and Corporations!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Call and tell Representative McCaul not to give tax cuts to the rich at the expense of the working and middle class!
 

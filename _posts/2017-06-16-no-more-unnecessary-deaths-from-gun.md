@@ -3,7 +3,7 @@ layout: post
 title: TELL MICHAEL MCCAUL - NO MORE UNNECESSARY DEATHS FROM GUN VIOLENCE
 subtitle: TAKE ACTION NOW!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: https://img.washingtonpost.com/blogs/wonkblog/files/2017/06/mass_shootings-1.png
 ---
 
 On Wednesday, the 154th mass shooting of the year took place in the US. This shooting, however, garnered more attention because it was directed at our legislators in Washington. The injuries and death from this event are tragic, but no more tragic than the countless other gun deaths and injuries that occur all over the country because of lax gun regulation. Because of this event, however, it seems that some legislators might be more receptive to hearing the case for stricter gun regulation.

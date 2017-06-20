@@ -3,7 +3,7 @@ layout: post
 title: Support the DIE-IN at Congressman McCaul’s Austin Office!
 subtitle: PROTEST THE AHCA AND MCCAUL WHO SUPPORTS IT!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 Michael McCaul voted to strip away healthcare from millions of Americans and replace it with a plan that would be disastrous for our country. Please join us at 2:30 in a protest at McCaul's office. If you cannot join in person, please amplify the message by calling and telling Michael McCaul that letting people die because they can't afford health insurance is immoral and unacceptable.

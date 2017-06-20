@@ -5,7 +5,7 @@ title: AHCA Vote Postponed to Today - Keep Up the Pressure!
 subtitle: CALL TO ACTION – Tell Representative McCaul to Vote NO on AHCA!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 **WE'RE SO CLOSE!!!** They've postponed the vote a day to try to find enough "yeas" but apparently it didn't go very well, because Trump has threatened Republicans in Congress that he will leave Obamacare in place if they don't pass it today.
 

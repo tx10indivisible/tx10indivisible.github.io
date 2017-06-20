@@ -5,7 +5,7 @@ title: Hear the Will of the People Heard and Oppose Neil Gorsuch and Nuclear Sen
 subtitle: CALL TO ACTION – Oppose Neil Gorsuch's Confirmation and Nuclear Senate Option to Beat Filibuster!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Senate Republicans denied President Obama his constitutional right to nominate a Supreme Court Justice in the last year of his term, claiming that it would be improper to vote on a nominee before hearing the will of the people in the forthcoming presidential election. By that rationale, it should certainly be improper to confirm the Supreme Court nominee of a president who did not win the popular vote, and is currently under investigation by the FBI for potentially colluding with a foreign power to subvert the electoral process. Even disregarding these unprecedented conditions, Neil Gorsuch is an extremist with views far outside the mainstream, who consistently sides with corporations and wealthy individuals over ordinary Americans. Call your Senators and tell them you OPPOSE Neil Gorsuch's nomination, and urge them to forsake the so-called "nuclear option" which would end the filibuster and make Neil Gorsuch the only justice to ascend to the highest court in the land without a filibuster-proof majority.
 

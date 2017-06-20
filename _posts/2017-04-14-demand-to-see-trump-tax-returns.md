@@ -5,7 +5,7 @@ title:  Join the Resistance and Demand Trump Release His Tax Returns!
 subtitle: CALL TO ACTION – Help Get the Word Out About This Weekend's Tax March Austin Event!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Well done to everyone who's called, emailed or visited the office of their MoC this first week of recess!
 

@@ -5,7 +5,7 @@ title: Tell Michael McCaul to Publicly Comment on Revised Travel Ban!
 subtitle: CALL TO ACTION – TELL MCCAUL TO GO ON THE RECORD ABOUT TRAVEL BAN ORDER!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 On Wednesday, in a ruling that applies nationally, a United States District Judge for the District of Hawaii issued an injunction against the Trump administration in its efforts to impose the latest travel ban Executive Order. As reported in The Washington Post, “In finding the ban violated the establishment clause, the court found ‘significant and unrebutted evidence of religious animus.’”
 

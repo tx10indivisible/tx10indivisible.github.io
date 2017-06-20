@@ -5,7 +5,7 @@ title: Demand an independent investigation into Russian interference with the No
 subtitle: CALL TO ACTION -- Tell Cornyn that the Senate Intelligence Committee needs to take the investigation into Russian interference with the November election seriously!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 CALL TO ACTION Wednesday May 3, 2017

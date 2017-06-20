@@ -5,7 +5,7 @@ title: Get the Trump Budget Cuts Under Control!
 subtitle: CALL TO ACTION – Tell Representative McCaul to Fix the Trump Budget!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 The president has released his "America First" budget and it’s grim. The proposed budget makes dramatic cuts to federal spending on the environment, international relations, and labor while adding $54 billion in defense spending. Additionally, it eliminates 19 federal agencies including the National Endowment for the Arts, the National Endowment for the Humanities, the Corporation for Public Broadcasting, and the Corporation for National and Community Service.
 

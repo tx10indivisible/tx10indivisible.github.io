@@ -5,7 +5,7 @@ title: Government Punishment of Sanctuary Cities Needs to Stop!
 subtitle: CALL TO ACTION – Ask Congressman McCaul to Oppose Punishment of Sanctuary Cities
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 Michael McCaul continues his fear-mongering rhetoric about undocumented immigrants and crime. Yesterday, he posted on Facebook and on his campaign Twitter  [@McCaulforTexas](https://twitter.com/McCaulForTexas) in support of Governor Abbott’s threats to jail Austin Sheriff Sally Hernandez for upholding sanctuary city policies. “Sanctuary cities endanger innocent Americans,” McCaul writes. This is just not true. A recent study by political scientist Tom K. Wong found that sanctuary counties have lower crime rates than comparable non-sanctuary counties. Immigrants, including undocumented immigrants, are less likely to commit crimes than people born in the United States. Hardline immigration policies distract local law enforcement from keeping communities safe by pulling them into immigration crackdowns, and concurrently make immigrants fearful of calling police in the event of a crime.
 

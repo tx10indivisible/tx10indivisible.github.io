@@ -3,7 +3,7 @@ layout: post
 title: TELL GOVERNOR ABBOTT YOU WILL NOT BOW TO HATE!
 subtitle: STAND UP AGAINST SB4!
 tags: [front,action-alert]
-share-img: /img/site-logo-borderless.png
+share-img: /assets/images/site-logo-borderless.png
 ---
 
 SB 4 is the *“show me your papers”* law that will transform Texas into the new Arizona — for the worse. Today we will rise up in protests, community meetings and rallies in Austin and across the state to decry SB 4 for what it is — a racist law designed to target millions of Black and brown people, trample on our civil liberties and make our communities hide in fear.
