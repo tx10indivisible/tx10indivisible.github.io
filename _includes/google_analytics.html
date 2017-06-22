@@ -9,4 +9,30 @@
 		ga('send', 'pageview');
 	</script>
 	<!-- End Google Analytics -->
+
+
+  <script>
+    /*** ADD LINK TRACKING TO ALL OUTBOUND NAVBAR HEADER LINKS ***/
+    $(function() {
+			$('a.nav-outlink').click(
+				function(element) {
+					var url = $(this).attr('href');
+	      	ga('send', 'event', 'outbound', 'click', url, {
+	        	'transport': 'beacon',
+	        	'hitCallback': function() {
+	            	setTimeout(
+									function() {
+										//console.log('****','click','tracked',url);
+										document.location = url;
+									},
+									750
+								);
+	        	}
+	      	});
+					return false;
+	    	}
+			);
+    });
+  </script>
+
 {% endif %}
